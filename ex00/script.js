@@ -1,0 +1,11 @@
+const name = "Rahaf";
+let age = 22;
+let isCoding = true;
+console.log("Welcome " + name);
+console.log("Age:", age);
+console.log("Coding status:", isCoding);
+age++;
+console.log("Age after increment:", age);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof isCoding);
